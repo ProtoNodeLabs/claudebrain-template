@@ -1,0 +1,8 @@
+# Don't commit actual vault content if you fork this as your live ClaudeBrain
+# The template files (brain/*.md, dev/projects/*.md) are safe to commit.
+# Your real session logs and inbox captures should stay private.
+
+# Uncomment these if you fork this as your live vault:
+# dev/session-logs/*.md
+# inbox/*.md
+# dev/decisions/*.md
