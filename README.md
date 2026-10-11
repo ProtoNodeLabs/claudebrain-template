@@ -109,4 +109,4 @@ Alternatively, Claude can read and write files directly via the Bash tool — no
 
 ---
 
-Built by [ProtoNodeLabs](https://proto-nodelabs.com). MIT licensed.
+Built by [ProtoNodeLabs](https://protonodelabs.com). MIT licensed.
